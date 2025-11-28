@@ -1,1 +1,2 @@
-git clone https://github.com/yufish1231/Assignment-2
+兩個人分別在兩個branch裡寫好程式，最後main再merge
+
